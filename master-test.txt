@@ -1,2 +1,0 @@
-hello!
-this is test02/master-test.txt!
